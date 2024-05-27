@@ -1,0 +1,5 @@
+.background {
+    -fx-background-image: url('image/Crow babies.jpg');
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
